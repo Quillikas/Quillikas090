@@ -1,0 +1,26 @@
+{
+  "name": "Wesley Nash",
+  "age": 58,
+  "address": {
+    "street": "Huwrom Manor",
+    "city": "Kapompeb",
+    "state": "MN",
+    "zip": "21883"
+  },
+  "contact": {
+    "phone": "(765) 389-9313",
+    "servicePhone": "800788813"
+  },
+  "birthday": "1965-01-24T21:01:09.489Z",
+  "ip": "30.165.171.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Ehzala vetbekam ehuz wimvapu uj ze dunur fan uskucuv egvashod opo fidwugir atgup bi igijo. Cubec ditsihso uczic nekus zeznupjaw vo bujopo sunivsu jidhal naj wewfa howor. Hu val tu jo wocloezi silej bimvew taci iho hi mib pivgouwa.",
+    "bio": "Ke witha terpolgo no osekve ku gisiner vehlacfib el cegguwak og ven. Vi fessuuw afieco randubva vavido uponen sucru jicinwa wuzuve midof hoplitbo powtozo josovom. Alu jiwoc mohhuzbe usavu ivo levsen de re kiteg do zi nit. Zajid leozik sefe ihu eclod waflog kurfitac imcu dic searueci pordis cugdig ukelini. Reowdi tunimip suci tuzupa tohre agi jocmok jarurcon wenaap na viicekuw mijamoz pofav na won."
+  },
+  "apiKey": "7bf7917d0ac5c2aae620668cb09c4c1664f12bdf0d65983341ba0943f9efd285",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
