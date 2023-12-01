@@ -1,0 +1,26 @@
+{
+  "name": "Tom Greene",
+  "age": 64,
+  "address": {
+    "street": "Rafja Path",
+    "city": "Owumalduk",
+    "state": "KS",
+    "zip": "24392"
+  },
+  "contact": {
+    "phone": "(448) 799-4226",
+    "servicePhone": "800192279"
+  },
+  "birthday": "1983-10-09T19:29:17.583Z",
+  "ip": "94.155.28.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Moseka ked be kaze joevimeg rokibijo sef wukuzto liginjor fodmir je puzuuz oni. Uco wugendi eka zulvedub lera miih fifa ubi obuka ume juwiv vasepkuf jamot. Am osu giat tuca ogo su uferij azodoita gokjekaf seh ne fuvbuja nitsoza ocme odnieto niegehi.",
+    "bio": "Vuk fushokaf bufed vuc jitorta urjoprud giej za ruj mozim nan ej. Figipu ak vovo pib sej kefuremaf soliguz fe ev dep jav enala fijdufe. Fo zuc cepron lan kiw jaze fo mifse ur vofut baohcin macisuv lidasize ugtoh. Ava lara re er foer ku nuhi farusab daklec ko pufance sabim. Como cumfa obacit so ahimof wimod tasiw ar foheg tud wagmufow oz."
+  },
+  "apiKey": "d405069404363ec3f8fad7c7f1231c2b507a1046ed28cc92fdc5cc406709838e",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
