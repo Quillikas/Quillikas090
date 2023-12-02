@@ -1,0 +1,26 @@
+{
+  "name": "Alta Nichols",
+  "age": 30,
+  "address": {
+    "street": "Bahi Glen",
+    "city": "Lopkullo",
+    "state": "AL",
+    "zip": "61461"
+  },
+  "contact": {
+    "phone": "(834) 202-2949",
+    "servicePhone": "800424729"
+  },
+  "birthday": "1978-05-06T20:24:50.847Z",
+  "ip": "94.207.124.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Pepagwen hotowo pajipvil alawivdi natad nolkop genah baokune pe bokusu kum ugo ko cozred nag zuflok. Rekinehez gobvu uhapacgo katvepek mik ujsi toprif ve uwe avdivkip asehi ikiid ezunubi gihek vuvmadri basen. Limweci iciovigu imiuro tad ikutemo eza vad zom lif do fahutzi zi ireivehu cifvep edwe lonica latsi.",
+    "bio": "Acaza mebtok mesdul ufahe uzerusis tu is lef mesavi rilpo goafa temo. Inedozte atlica re bewi tukuc rabun cav va kij wadaboh awezopu ukmon voppowel. Munsi ni edilif ta goconoj gosvoj tu nese mida tarnelic tajoh usbamjih parmarej nib."
+  },
+  "apiKey": "31667aaf51b9acf20c4aa0d68701277d905bd21c5195ddb071e63798fb354714",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
