@@ -1,0 +1,26 @@
+{
+  "name": "Bernice Hall",
+  "age": 34,
+  "address": {
+    "street": "Merca River",
+    "city": "Fokobaw",
+    "state": "NE",
+    "zip": "14658"
+  },
+  "contact": {
+    "phone": "(765) 906-1918",
+    "servicePhone": "800514543"
+  },
+  "birthday": "1989-10-27T20:03:22.359Z",
+  "ip": "126.166.96.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Imiuwaj akko vikguner ovonob bizafu ihinera ihbo vor hajubuco lalijeke kujrejun oco. Ucahete hokson fac hizvem naul picdeke dogibbob katu tov parle cogka hi. Ifa zievu cude fubdu indaeco tus bufvakes lu pov la ze voteh miv hihgac nazoona.",
+    "bio": "Di josbe ve vav geoztu dupjomdu mil vuopre ka ewa vuelafe pu owfobaf caifu gikulo til lujop iwsu. Su moz hap kamenve juso dinlicug ew bik gergohmas mamas harehiz pudele ij uro. Za ungovuf av ekuni hido bakemi cit riuc vonruwto kernijwi okvep jezku wa gamos."
+  },
+  "apiKey": "5f674e0cda8db4f8e8846de6de73098002aa001451cdfe0b8f32d7f0765749ed",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
