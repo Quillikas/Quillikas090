@@ -1,0 +1,26 @@
+{
+  "name": "Leo Brock",
+  "age": 19,
+  "address": {
+    "street": "Zuhja Point",
+    "city": "Gatevubo",
+    "state": "DC",
+    "zip": "34167"
+  },
+  "contact": {
+    "phone": "(659) 243-8501",
+    "servicePhone": "800278761"
+  },
+  "birthday": "1978-08-17T01:19:34.432Z",
+  "ip": "201.66.201.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Didro jo wor naz upuza caw eci kaeme ana pa lezomraf nudvizcov womu owselak se. Nuba dufesu ahiku ijoal goizovo acoecaiv nuv coffuho gofof oj lauwe rongigep guv. Amijufvor suf ufobecvus ulvu um bil mejopnu haf timtiov ravul tuv de zeduwsag jan. Nomron bamlen oreulhel zuroz kis tuwijmi huevabi ija juz taneg gevotu nevotcu opuuwu. Luf jut pioc uz rimdajbel ponigobav dut lop re apwev hululon riejeg zokpan cedu. Ec ofise wej azaribkuw durues zi udidawi ek mifugcek mose gahsera ewu tifawka cuk ek. Cur zunik ki febo upearufu siwzo rehaki lezodesu vam hahono zuvseza fagaf du te nine uzdac kuvelib hogahagad.",
+    "bio": "Limactol iferaaz ed vezaav savuasa fermumi egfitbib nika goduzo ji uvevobahe uf. Joh haronam goewo pe jublo segabmo onodi mu ci ojko goraro sas panwib hurzibcup cipvat hebjas. Ro ezcif to jeri te isdi ejepo taja akiwimis lohoba rettiraz ufeulisor hif cinib akjadmo isuup. Ga telmuaf ugkog mimwamon wilzu ciiwe pawuziz boviviv guwi ri jaeko genwuli vovnalki. Nerapo vifo wofzuzo nac fabpibud hoc zetcom fopaljal sufha bon ol zamlocup le ce. Vobizfu la faak bowa cimobtuf tetfazo habejeje mazede wogocro caizo zo vene rec ra kucrodtif mase simah."
+  },
+  "apiKey": "287fdb284d84d4fca63ea5683bcf89793b46fea82c577698f6d097b9a5299087",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
