@@ -1,0 +1,26 @@
+{
+  "name": "Sam Hines",
+  "age": 56,
+  "address": {
+    "street": "Mecuz Trail",
+    "city": "Kodilez",
+    "state": "AZ",
+    "zip": "42281"
+  },
+  "contact": {
+    "phone": "(406) 415-1508",
+    "servicePhone": "800493454"
+  },
+  "birthday": "1981-07-10T04:04:11.131Z",
+  "ip": "141.21.47.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Kaot lizke bedlimjum kigpem cen odgokfe guminvoc cuno uloso nebgeluc cekfidap ruf. Zijobnur divujwel nohe no galwu naboghih fa tatih iso olvus hegevil ga doekoic. Lih lesza abow witves sowar dakvousu li fokmacam ric wuzpeju jiswefgi inobipar pinno ri. Epwuv ifawunlid noan jinlu nipufuco sasgeil mifeja wa jojanu tagkorke idi bi ligpa hoem rubek sugzufzus ta lalvoci.",
+    "bio": "Ofdereru kegfoen silwe lurobdu eli wamnuv ci gavuhe cazsicgo fevsifru iro mutjifise uraluzwo daw bumeble fi mu. Obota wioba hezpoat fojsow cepkephe veataba pismukwu cuatmod retpif igisi fibwi zob wu gosadim. Nefe lunic egtejwe ekiwe zeraba etalobke vimvotja riwena nutkor hinti kugi gacoewu on oh hebuddiz aziva jarivob le."
+  },
+  "apiKey": "def38a0fe4d04dda16bc821192c648153990ca571f6161bcc528280b03bb041b",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
