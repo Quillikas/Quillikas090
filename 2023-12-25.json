@@ -1,0 +1,26 @@
+{
+  "name": "Jane Pope",
+  "age": 55,
+  "address": {
+    "street": "Aneis Ridge",
+    "city": "Jilobe",
+    "state": "HI",
+    "zip": "19763"
+  },
+  "contact": {
+    "phone": "(931) 567-5616",
+    "servicePhone": "800873324"
+  },
+  "birthday": "1960-01-17T21:28:20.708Z",
+  "ip": "241.211.110.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Fidho or udimo ibi lukjef omujid pod wihmel uvodi pojmemeg do nafci ufokur bobjinti wim. Jociika udeoke dici huthime vuuginaw gun utpel muszaha tev fohefdum saejdu mu imsaj ne dufkut ve kahmuk. Leforha muujuig mitac mubiofu wikatbo so biruvula mutuko be kak ul miezeh. Pila lejag go sajmoba epeili jaeri lohetu judbijru tih wigi osu cu ker.",
+    "bio": "Li gacazoiw vak jebi je litpegu wiv pekagu orari poco cirimoh rihpol azinojdip kamo ot zalozli. Va loikraf tarda zivli pegkew emites onpu suesmok kowmi ijigo uraeloji eni lor jebehad june gat fat vofabho. Ud uzuoggal othigugi kiwaj numpew agomiv wu jicpoob rugwewav le gi ivmi tuubilac vatuip wueh."
+  },
+  "apiKey": "1b68c9d7a8e16e3f15644438ffff6608dad36767f4feeda29586a4d0e0d11265",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
