@@ -1,0 +1,26 @@
+{
+  "name": "Henrietta Holmes",
+  "age": 22,
+  "address": {
+    "street": "Lajho Plaza",
+    "city": "Gugevket",
+    "state": "NJ",
+    "zip": "22444"
+  },
+  "contact": {
+    "phone": "(825) 762-9377",
+    "servicePhone": "800512996"
+  },
+  "birthday": "1989-06-07T21:49:02.192Z",
+  "ip": "61.74.26.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Afa dak niuhokut hanuroce ruk icilu ze sufo uto sirukcic buze toca le malkora. Sedu sonez eltu ucre umpo tetjah nic wecos mojuve kerwejih urga sonpivi di. Akocamoba bido ap mohmuzot seuhova wi ju jaduj pilhi dumewez jo terribew him fatmam novcak menwobja rafawu mojesu.",
+    "bio": "Lugakol ogasan zid lutej halag gobak zir lageso rik wih ivvufwuv modivsem ziduk baj huhah ketcajiko zaiwog piblac. Potabi bop mulawuj bopup apu tihpo do co eku tejgahpes lubhewu pujuchim eclak mo hob nosagom. Ka zejis tiecun eva uwvaalo kusve gej ziwa mel socfora zub filbac ecooluje zadlis ve. Zafeudu gik ipeoruomu lekozo mokuab jonuvfe ubu jifiij petaufu pak dubokik ipku lubjokpe ciectam jon. Sihbikde ko tiju unwuw ze he gakleb dingulig mehwac ova kekcob apaomees hepa ciudago gu jokeco nomradbo. Ra dolifu tuf juujo wi te boteface casoggep dan cufe enali kelet duwebek imuopfed jusva mib ba."
+  },
+  "apiKey": "17045cb32766f7d879b496c3acda43aacc1bb7cba4c8b35f6c3913bdb3edc618",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
