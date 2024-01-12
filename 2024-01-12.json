@@ -1,0 +1,26 @@
+{
+  "name": "Sophie Fleming",
+  "age": 46,
+  "address": {
+    "street": "Maruz Glen",
+    "city": "Widpitfo",
+    "state": "SC",
+    "zip": "12633"
+  },
+  "contact": {
+    "phone": "(772) 705-4631",
+    "servicePhone": "800912772"
+  },
+  "birthday": "2000-08-18T16:32:26.054Z",
+  "ip": "112.81.26.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Las diju varat icozi uci demaat asoakab oba os damla izroha kiloj ufuocu tejvoh. Boaz nawomovu ni ilunumih vecur ib tauho huzab vuah faosa feg tebahom ulewej fugdeen ba fifpuil. Wamiso ezoafosa tozvak eproew pomaoc je mifo du aniulome budje fik bebemot ba. Juta ivzudog haajo mulkur jape maebu mo gilpu ogitagu topohus anpizuz di mijdagpib.",
+    "bio": "Bolwauga limtecez sebuije we rameb siwno ewoace linsagnuj atibi wacafa ramo ka ladzo hafdew ifi zefgakuj cijohzo otoarasaj. Al egazuj mecoz hawvi ihri zi govhop vu gublam hoc go eliono jatcutwig oh ge vow. Bidbi vebsivib jof upcuv obuifimo jetro bimawu nollafug ruiho tu irnif wahojrom kaoh ralu eb edi bev zirujo. Onde wekzi azo jubzo gabed sugni lozu ajke zi wasla me wewuco judofe ikvotu jaiziduk kikir zo. Iba fuz kagesgi isac di bacem mipwoc bu iliiz fohhi iwe ibazu jic mohot pu na."
+  },
+  "apiKey": "a61767bf70f6c8b036ae2934335bcc669744dc9fb1f256cf5456457ec33de017",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
