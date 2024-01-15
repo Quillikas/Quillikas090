@@ -1,0 +1,26 @@
+{
+  "name": "Darrell Sutton",
+  "age": 24,
+  "address": {
+    "street": "Udsu Plaza",
+    "city": "Ponzeko",
+    "state": "FL",
+    "zip": "16631"
+  },
+  "contact": {
+    "phone": "(868) 400-8088",
+    "servicePhone": "800677787"
+  },
+  "birthday": "1959-09-18T07:00:45.202Z",
+  "ip": "225.195.10.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Muj up hete ge notnib poh zikidu sitah bov coheti zibogkaj toocbel. Hiw ne beimoc ce piferlo lous iwton zojwisuw weluma zod ci lusives diuzu ahujup nori. Vi leccar tam per bib zizutrin vinuvaz ihoomtes emuwi halaf sari wu if bajah fu.",
+    "bio": "Ve vumav sohvekot tewimeve vegpeclun ba fik cefnovdi ra bibkum dehfu gi woha couno jab fo si. Bi duka fegi dofjewa muructu aji edmepku da elhulav lozhahfo azigois obfid hez soug zusnifi iju. Inzuj uzuana tusew foimo sovworo nuza fa hivojum ni rinik ucoraw afusofoci jozusi joworka temar huhif sulebese."
+  },
+  "apiKey": "4857e19a21aa236c0064ef5285d3efbc4456610e1cfbb788eae5e36a1c57a12d",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
