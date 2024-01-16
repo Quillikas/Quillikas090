@@ -1,0 +1,26 @@
+{
+  "name": "Franklin Wilson",
+  "age": 62,
+  "address": {
+    "street": "Rote Parkway",
+    "city": "Kerbumag",
+    "state": "NJ",
+    "zip": "91529"
+  },
+  "contact": {
+    "phone": "(669) 786-2456",
+    "servicePhone": "800664567"
+  },
+  "birthday": "2005-12-28T04:38:21.327Z",
+  "ip": "109.241.196.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Woccet du kaj rehef ke meca foswu ja gu cedorlon ac buwtoj lafsa ko. Pig diel wub huhivetu rehdiw wapopus tu inko pikege ike bamah zi diis. Dij be borebo unoev din dodgeze di tosuek do aj og polluk dumeh.",
+    "bio": "Etron soopi anolivi im og maworhu ehzafav poivmu rabubre pekag fidic ficpoab ec tas sigzizo cupjah awnacju ru. Ko pucwohe vajvu asbemgog dorit cigavaj vimdiz nuf ate lobsuvobu he doh ohimed ra vohimbu dem ihdohwa. Lo cu vakwo jeku iwleti wuudbi tipza je suaj mimitu ku zuhu. Uvper otapacvo ronru kosije le iwlozub jedov ku epeoc nukrocvoc lohed pignakij wiw hozkawhif bu luovupum."
+  },
+  "apiKey": "3a3f7c8c08573c48e50ae9987282f814ddf5839e925b3c6b7112abf7f8de38fc",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
