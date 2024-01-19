@@ -1,0 +1,26 @@
+{
+  "name": "Cora Adams",
+  "age": 65,
+  "address": {
+    "street": "Kaspeg Drive",
+    "city": "Ritoel",
+    "state": "MI",
+    "zip": "11700"
+  },
+  "contact": {
+    "phone": "(352) 934-4015",
+    "servicePhone": "800175323"
+  },
+  "birthday": "1968-08-05T18:24:06.488Z",
+  "ip": "182.4.69.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Vemid potfih ud rem salwepov bowev dica welzulvu vu wuevo moc des heclor cufrow. Ole jen nu maj lewfaj dogbe vakatni lu negajcu cuvhiges tut du sov dimrik ujoapnim. Suhegniv vogonic runwa vubsurnon hoki en ka uhda akta kel ur fu nug itoju ragopmo.",
+    "bio": "Bu faluzgi bi gintacnol so sa jeava gir hovotva nowlena omi wipbom vulje decuj orobu raudgil. Ro bepkevfol af vufas no gide heb liremepi pardoto hiag ga rakohjet gonlola. Jacne omziv di timepum ruaf judioz amo tamari bo gidca fun fabafow dakvadli zuhhoosa. Cusa hop wibkal vetwirrol kalub oz bac pikvowid obcuv sigtijhac ordilul ogocob. Havlim nuw miukfa fip ri ta zudcosfe solaz ibi het tuijajab to miwak puciwococ ur vizupa."
+  },
+  "apiKey": "4f43d1faa5e796469737f6133c818f0e1fe299a157f1a4a664da9eb3e59b5921",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
