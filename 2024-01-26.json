@@ -1,0 +1,26 @@
+{
+  "name": "Isabelle Fletcher",
+  "age": 19,
+  "address": {
+    "street": "Lagub Circle",
+    "city": "Jusufvu",
+    "state": "IL",
+    "zip": "19817"
+  },
+  "contact": {
+    "phone": "(834) 885-3030",
+    "servicePhone": "800798515"
+  },
+  "birthday": "1997-02-08T15:55:20.194Z",
+  "ip": "211.16.62.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Dum epeosawat ahe eta zowefi kig ricgartit ibijac guf bumehe te mivudmor dodevtav heeg jevbaw. Ciwciwim mifved heotlel igior licwuz buffetam ev sat ereha wohced uvari ban nalicuza. Umzocof gebwolidu abwuflel ive amiwru gium mifbujev ful ha nuw row mewnuzzug jugu eziluwu alkajah niw. Ucserob if tevwehva bob huw etepevda ci igukohmif cew najbapzig ja dasuuke veza cul.",
+    "bio": "Lo mepis dimic tut wozvu da kekjut acauji kad avimu ifu zisba eka obuciz. Rahek wino owavutzuk lef forug ecogujit gugurba winudoga sooja ufi ebo te ijpap teg. Vib huvifa filvukdov jeina zi dazavtit doz icofe di selsi apaamu guoli cufuspin hewug zoejmon nesoj fi gigbutji."
+  },
+  "apiKey": "bc758e0503e406a6592c056292b3fbc18087e602fc007e6bcbe8389c6341ba86",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
