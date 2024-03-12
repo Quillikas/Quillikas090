@@ -1,0 +1,26 @@
+{
+  "name": "Paul Holmes",
+  "age": 50,
+  "address": {
+    "street": "Onne Junction",
+    "city": "Dulumemus",
+    "state": "WV",
+    "zip": "46130"
+  },
+  "contact": {
+    "phone": "(623) 978-4684",
+    "servicePhone": "800873772"
+  },
+  "birthday": "1988-01-02T13:40:12.142Z",
+  "ip": "46.4.140.203",
+  "foo": "bar",
+  "profile": {
+    "about": "Sovisem dok rup vivlopho tiafdec funihvah ca mupsuhfa varuwako midik sav apewute sovpophe gujva joab urenuro ozziri nup. Vuzdeas mukiprez ev vuah fimvo wuvawow kahohi sapbevhej nu isisahto ekra kagrahfar. Sufeeba jetwazrum tomi mufwidna pocofih omatihle dafdejkam uti bo re evju nezvis kuozave soso.",
+    "bio": "Uh micvige tewi upipi gukcidve nigvol jiwmadvug duattot jevahli nosma susmedi vukil. Hapebje jogawjeg mibkir fuhjuhec civi kamse hugambum ze hibokcun kipeki zockarhuk da omvo. Cimmobaka toj mi hu dubkufsu nuzam vapili cazguj uwwe mowiw beane pobriw uj vajwed koka zopen. Eliortat sod jotbut paci wov jo suvuvev burjud af ve ter elijomsi dorovda if udoethad. Iwumvar foc oho zoakuge da cuh abu botsohtu lec figkir tor obegu mokevgu bizaran. Raw viz esmuhelo migaem lajused ralec ase ihnez bikec wi odulone zoij nusunag lin nidu hiwhe daj gojoc."
+  },
+  "apiKey": "37a4f2a2ee515070c1938f7117dd9e864bb1fc3389d4e5612fa671ff6d9cf1f2",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
